@@ -42,7 +42,7 @@ int main ()
 
     // Evaluación del BMI
     if (opcionInvalida != 1) {
-        cout << "Su Indice de masa es: " << resultadoPeso<<endl;
+        cout << "Su Indice de masa es-------: " << resultadoPeso<<endl;
 
         if (resultadoPeso >= 0 && resultadoPeso < 18.5) {
             cout << "Bajo peso: menos de 18.5\n";

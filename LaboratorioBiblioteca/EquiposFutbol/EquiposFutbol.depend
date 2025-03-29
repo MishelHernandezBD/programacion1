@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1743135034 source:c:\users\mishel\onedrive\documentos\programacion\programacion 1\programacion1\laboratoriobiblioteca\equiposfutbol\main.cpp
+	<iostream>
+	"partidos.h"
+
+1743136030 c:\users\mishel\onedrive\documentos\programacion\programacion 1\programacion1\laboratoriobiblioteca\equiposfutbol\include\partidos.h
+	"equipos.h"
+	<iostream>
+
+1743134894 c:\users\mishel\onedrive\documentos\programacion\programacion 1\programacion1\laboratoriobiblioteca\equiposfutbol\include\equipos.h
+	<iostream>
+
+1743135157 source:c:\users\mishel\onedrive\documentos\programacion\programacion 1\programacion1\laboratoriobiblioteca\equiposfutbol\src\equipos.cpp
+	"equipos.h"
+	<iostream>
+
+1743137817 source:c:\users\mishel\onedrive\documentos\programacion\programacion 1\programacion1\laboratoriobiblioteca\equiposfutbol\src\partidos.cpp
+	"partidos.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
